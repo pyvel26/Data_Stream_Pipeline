@@ -11,6 +11,7 @@
 Requirements
 
 PostgreSQL - at least entry level database knowledge to create tables
+
 PyCharm or python interpreter - basic understanding of Python 
 
 
