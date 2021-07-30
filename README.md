@@ -14,7 +14,7 @@ ETL Execution
 
 
 
-1 . Copy the attached mock_api.py and ingest.py files separately on your system.    
+1 . Copy the attached mock_api.py and ingest.py files separately into your text editor or download files.    
 
 
 
