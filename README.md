@@ -35,7 +35,7 @@ ETL Execution
 
 6. Check to see if the data is streaming into PostgreSQL without any issues   
 
-7. Stop the data ingestion test and we will schedule the ingestion to occur daily with 	CRONTAB
+7. Stop the data ingestion test and schedule the ingestion to occur daily with 	CRONTAB
 
 8. Create a new crontab or use the existing one if you want the job to run on midnight 	every day.
 
